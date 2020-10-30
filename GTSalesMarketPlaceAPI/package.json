@@ -1,0 +1,21 @@
+{
+  "name": "GTSalesMarketPlaceAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/rutas.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "nodemailer": "^6.4.14",
+    "nodemon": "^2.0.5",
+    "oracledb": "^5.0.0"
+  }
+}
